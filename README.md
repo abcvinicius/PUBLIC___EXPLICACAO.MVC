@@ -8,7 +8,7 @@
   
   `<Model>` `<View>` `<Controller>`
   
- 
+ ---
  
  `<Model>`
 
