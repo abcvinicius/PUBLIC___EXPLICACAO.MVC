@@ -1,6 +1,3 @@
-# Java + Jpa + Spring Boot
-
----
 
 # ***MVC ?*** 
   
